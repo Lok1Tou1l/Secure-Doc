@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "8jcrdkHOcAQev4U3ZTEPhB/TkebmNbVMGvekBAwtPU8=",
+  "Source": "SecureDoc.Server",
+  "BasePath": "_content/SecureDoc.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "A:\\Documents\\Projects\\SecureDoc\\securedoc.client\\securedoc.client.esproj",
+      "Version": 2,
+      "Source": "securedoc.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

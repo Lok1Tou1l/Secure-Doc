@@ -1,0 +1,1 @@
+A:\Documents\Projects\SecureDoc\securedoc.client\obj\Debug\securedoc.client.esproj.CoreCompileInputs.cache
